@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2",
+  "description": "BOOTH Library Manager",
+  "homepage": "https://booth.pm/announcements/893",
+  "url": "https://dccp7p2xe3u6o.cloudfront.net/installers/BOOTH%20Library%20Manager_0.2.2_x64-setup.exe",
+  "hash": "41a7e2793499d79e203a64a6bdb9192b537e955daf8bcf2fed1ccca0111e0b35",
+  "installer": {
+    "args": ["/S", "/D=$dir"]
+  },
+  "bin": "booth_library_manager_client.exe"
+}
