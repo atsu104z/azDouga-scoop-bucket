@@ -7,6 +7,9 @@
   "installer": {
     "args": ["/S", "/D=$dir"]
   },
+  "shortcuts": [
+    ["BOOTH Library Manager", "$dir\\booth_library_manager_client.exe"]
+  ],
   "bin": "booth_library_manager_client.exe",
   "persist": "libs"
 }
