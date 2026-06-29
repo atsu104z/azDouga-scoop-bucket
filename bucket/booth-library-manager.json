@@ -7,5 +7,6 @@
   "installer": {
     "args": ["/S", "/D=$dir"]
   },
-  "bin": "booth_library_manager_client.exe"
+  "bin": "booth_library_manager_client.exe",
+  "persist": "libs"
 }
